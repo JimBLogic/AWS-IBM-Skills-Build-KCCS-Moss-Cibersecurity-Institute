@@ -1,7 +1,7 @@
-# AWS Certified Cloud Practitioner
-## AWS SIMULEARN: Cloud Practitioner
-### In progress...
-![AWS SIMULEARN: Cloud Practitioner](./certs/AWS%20SimuLearn%20Cloud%20Practitioner%2012h.png)
+# AWS Cloud Practitioner Training
+## AWS SimuLearn: Cloud Practitioner
+### Completed — badge issued January 2025
+[![AWS SimuLearn: Cloud Practitioner training evidence](./certs/AWS%20SimuLearn%20Cloud%20Practitioner%2012h.png)](https://www.credly.com/badges/2fbdc9ba-c4f6-4e34-bfe6-ada0751e536a)
 
 # IBM-Skills-Build-Certs
 ## Python and web development credentials.
