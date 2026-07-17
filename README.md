@@ -13,3 +13,6 @@
 ## Mossé Cybersecurity Institute
 ### KCCS Knowledge of Cybersecurity Skills
 [KCCS Knowledge of Cybersecurity Skills - Mossé Cybersecurity Institute](https://students.mosse-institute.com/knowledge-test/CwLmPjf2GImtJzeszhxJ)
+
+## Related Portfolio
+[View the full certifications and learning journey](https://jimblogic.github.io/#certifications).
